@@ -1,0 +1,12 @@
+ipykernel==6.29.4
+pyarrow
+requests
+pandas
+numpy
+torch==2.2.1
+torchvision
+torchaudio
+scikit-learn
+matplotlib
+multiprocess
+tqdm
